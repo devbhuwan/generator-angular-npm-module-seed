@@ -2,9 +2,7 @@
   "name": "<%= projectName %>",
   "version": "1.0.0",
   "description": "",
-  "keywords": [
-    "angular 2"
-  ],
+  "keywords": [],
   "main": "index.js",
   "scripts": {
     "clean": "rimraf .tmp && rimraf dist",
