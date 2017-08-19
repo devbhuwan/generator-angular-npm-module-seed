@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "root": "src",
+      "prefix": "<%= componentPrefix %>"
+    }
+  ]
+}

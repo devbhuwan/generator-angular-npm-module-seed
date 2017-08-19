@@ -1,5 +1,3 @@
-coverage
-!/generators/app/templates/_rollup.config.js
 .vscode
 dist
 # See http://help.github.com/ignore-files/ for more about ignoring files.
