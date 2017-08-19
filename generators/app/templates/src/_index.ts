@@ -1,1 +1,1 @@
-export {<%= projectNameCamelCase %>Module} from './app/_app.module';
+export * from './app/<%= projectName %>.module';
