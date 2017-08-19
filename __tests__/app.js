@@ -11,7 +11,7 @@ describe('generator-angular-npm-module-seed:app', () => {
 
   it('creates files', () => {
     assert.file([
-      'dummyfile.txt'
+      'rollup.config.js'
     ]);
   });
 });
